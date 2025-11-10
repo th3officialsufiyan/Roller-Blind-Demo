@@ -1,0 +1,8 @@
+{
+    "name": "sunshade-website",
+    "version": "1.0.0",
+    "private": true,
+    "scripts": {
+        "start": "live-server --port=3000"
+    }
+}
